@@ -5,7 +5,7 @@ public class Main {
 
 
 
-            byte myByte = 102;
+            byte myByte = 100;
             short myShort = 20000;
             int myInt = 1000000;
             long myLong = 123456789L;
@@ -36,6 +36,7 @@ public class Main {
             System.out.println("Значение переменной value6 с типом int равно " + value6);
             System.out.println("Значение переменной value7 с типом byte равно " + value7);
 
+
             int studentsLudmila = 23;
             int studentsAnna = 27;
             int studentsEkaterina = 30;
@@ -53,6 +54,7 @@ public class Main {
             int dayMinutes = 24 * 60 * bottlesPerMinute;
             int threeDays = 3 * dayMinutes;
             int month = 30 * dayMinutes;
+
 
             System.out.println("За 20 минут машина произвела " + minutes20 + " штук бутылок");
             System.out.println("За сутки машина произвела " + dayMinutes + " штук бутылок");

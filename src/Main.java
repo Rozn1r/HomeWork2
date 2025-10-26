@@ -5,7 +5,7 @@ public class Main {
 
 
 
-            byte myByte = 101;
+            byte myByte = 102;
             short myShort = 20000;
             int myInt = 1000000;
             long myLong = 123456789L;

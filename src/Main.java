@@ -11,7 +11,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
 
 
-            byte myByte = 100;
+            byte myByte = 101;
             short myShort = 20000;
             int myInt = 1000000;
             long myLong = 123456789L;

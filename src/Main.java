@@ -34,7 +34,7 @@ public class Main {
             int value6 = 27897;
             byte value7 = 67;
 
-            System.out.println("Значение переменной value1 с типом double равно " + value1);
+            System.out.println( "Значение переменной value1 с типом double равно " + value1);
             System.out.println("Значение переменной value2 с типом long равно " + value2);
             System.out.println("Значение переменной value3 с типом float равно " + value3);
             System.out.println("Значение переменной value4 с типом short равно " + value4);
